@@ -133,6 +133,6 @@ If you want to contribute in other ways (like coding, bug fixes, or feature sugg
 
 ---
 
-![Thank You](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+![Thank You](https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif)
 
 
