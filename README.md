@@ -115,11 +115,11 @@ If you find this project helpful and would like to support its ongoing developme
 
 ### How to Contribute 💸
 
-You can donate through the following channels:
+You can donate through the following platforms:
 
-- **PayPal**: [Donate via PayPal](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_LINK)
-- **Buy Me a Coffee**: [Support via BuyMeACoffee](https://www.buymeacoffee.com/YOUR_USERNAME)
-- **Ko-Fi**: [Donate on Ko-Fi](https://ko-fi.com/YOUR_USERNAME)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_LINK)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/YOUR_USERNAME)
+[![Ko-Fi](https://img.shields.io/badge/Donate-Ko--Fi-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/YOUR_USERNAME)
 
 Every donation, big or small, helps us continue to work on this project and bring it to the next level. 🚀 Thank you for your support! 💖
 
@@ -130,4 +130,9 @@ Every donation, big or small, helps us continue to work on this project and brin
 We appreciate everyone who supports this project in any way. Your generosity makes all the difference. Thank you for being a part of our community! 💪
 
 If you want to contribute in other ways (like coding, bug fixes, or feature suggestions), feel free to check out our [Contributing Guide](CONTRIBUTING.md). 🚀
+
+---
+
+![Thank You](https://www.example.com/thank_you_image.jpg)
+
 
