@@ -1,100 +1,22 @@
-🕵️ TikTok Investigator: seeker.py
-Investigate TikTok accounts for potential scam behavior, location hints, and suspicious comments — fully automated with PDF reports, map tracing, and live status detection.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&lines=🕵️+TikTok+Investigator+CLI+Tool;Analyze+Suspicious+Accounts+on+TikTok;PDF+Reports+%7C+Map+Tracking+%7C+LIVE+Check&font=Fira+Code&pause=1000&color=58A6FF&center=true&width=1000&height=50">
+</p>
+
+<h1 align="center">🕵️ TikTok Investigator - <code>seeker.py</code></h1>
+
+<p align="center">
+  <b>A professional OSINT tool for scanning and analyzing TikTok accounts for scam behavior, location tracking, and comment-based red flags.</b><br>
+  Generates a full PDF report, opens Google Maps, and checks LIVE status.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12+-blue.svg?logo=python">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  <img src="https://img.shields.io/badge/Platform-Windows%7CLinux%7CMacOS-lightgrey">
+  <img src="https://img.shields.io/badge/Report-PDF%20Auto-red.svg?logo=adobeacrobatreader">
+  <img src="https://img.shields.io/badge/Map-Google%20Route-yellow.svg?logo=googlemaps">
+</p>
+
+---
 
 
-🧠 Overview
-seeker.py is a professional-grade investigation tool designed for OSINT analysts, cybersecurity teams, digital journalists, and concerned users to analyze public TikTok accounts.
-
-This tool scrapes account metadata, detects scam-related comments, extracts location hints, checks LIVE status, and generates an automated PDF report — complete with comment analysis and Google Maps route preview.
-
-⚙️ Features
-
-Feature	Description
-🔍 Scam Keyword Detection	Automatically identifies suspicious comments using a customizable keyword list (cuan, pinjol, etc).
-🗺️ Location Extraction	Detects potential location names from bios, video captions, and comments.
-📡 Live Stream Scanner	Determines if the user is currently live and displays metadata.
-🧾 PDF Report Generator	Exports all findings into a professional PDF, including suspicious comments per video.
-🗂 JSON Export	Full investigation logs are stored in structured .json format for future reference.
-🌐 Google Maps Integration	Opens traced locations as directions on Google Maps (multi-stop route).
-📷 Sample Output
-✅ Sample generated content:
-
-@target_laporan.pdf – Full professional report with all data
-
-@target_laporan.json – Raw structured data
-
-Google Maps – Open suspected locations directly
-
-👇 Sample PDF snippet:
-
-🚀 Quickstart
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/tiktok-investigator.git
-cd tiktok-investigator
-2. Install Requirements
-bash
-Copy
-Edit
-pip install -r requirements.txt
-⚠️ Ensure you're using Python 3.12+
-
-3. Set Google Maps API Key
-Edit the script seeker.py:
-
-python
-Copy
-Edit
-GOOGLE_MAPS_API_KEY = "YOUR_GOOGLE_MAPS_API_KEY"
-🔑 Get your API key here
-
-4. Run the Tool
-bash
-Copy
-Edit
-python seeker.py
-Then enter the TikTok username (without @) when prompted.
-
-🧠 Use Cases
-👮‍♂️ OSINT Investigators tracking potential fraudulent accounts
-
-🎓 Academic research into TikTok activity trends or scam behaviors
-
-👨‍👩‍👧‍👦 Parents monitoring suspicious TikTok accounts
-
-📰 Digital journalists collecting evidence on scam trends
-
-🛡️ Cybercrime units monitoring financial scam accounts
-
-🛠️ Roadmap (Planned Upgrades)
- GUI mode (PyQt or Streamlit)
-
- Email or Telegram alert support
-
- Export to Excel and Google Sheets
-
- More intelligent NLP-based comment filtering
-
- Threat level rating system
-
-📁 File Structure
-bash
-Copy
-Edit
-📦 tiktok-investigator/
-├── seeker.py              # Main investigation script
-├── requirements.txt       # Dependencies
-├── @username_laporan.pdf  # Output: generated report
-├── @username_laporan.json # Output: raw investigation data
-🤝 Contributing
-Contributions are welcome!
-
-💡 Suggest new scam keywords
-
-🧪 Improve AI/NLP-based comment filtering
-
-📊 Add better visualization/reporting
-
-🎨 Enhance PDF styling
