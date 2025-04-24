@@ -56,9 +56,6 @@ cd tiktok-investigator
 
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 
 ```
