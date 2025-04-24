@@ -133,6 +133,6 @@ If you want to contribute in other ways (like coding, bug fixes, or feature sugg
 
 ---
 
-![Thank You](https://www.example.com/thank_you_image.jpg)
+![Thank You](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
 
 
