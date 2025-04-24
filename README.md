@@ -71,6 +71,7 @@ GOOGLE_MAPS_API_KEY = "101010101"
 
 ```
 🚀 Usage
+
 python seeker.py
 
 
