@@ -19,4 +19,89 @@
 
 ---
 
+   TikTok Scam & Location Investigator CLI
+     [PDF Reports | Live Check | Maps]      
+
+---
+
+## 🔍 Key Features
+
+- 🧠 **Scam Comment Detection** – Flags risky keywords like `cuan`, `pinjol`, `promo`, etc.
+- 🌐 **Location Tracker** – Extracts location clues from bio, captions, and comments.
+- 🎥 **LIVE Status Detector** – Check if account is currently live on TikTok.
+- 🧾 **Professional PDF Report** – Auto-exported report with all data in beautiful layout.
+- 🗺️ **Google Maps Integration** – Trace user’s detected locations visually in a multi-stop route.
+- 📦 **JSON Output** – Structured data also saved for use in other tools.
+
+---
+
+## 🧪 Sample Output
+
+> Output files:
+> 📄 @username_laporan.pdf → Full investigation report
+> 📜 @username_laporan.json → Raw data in structured format
+> 🌍 Google Maps route → Locations found from comments & bios
+
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/tiktok-investigator.git
+cd tiktok-investigator
+
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Add your Google Maps API Key to the script:
+
+python
+Copy
+Edit
+GOOGLE_MAPS_API_KEY = "YOUR_API_KEY_HERE"
+🚀 Usage
+bash
+Copy
+Edit
+python seeker.py
+Masukkan username TikTok (tanpa @) saat diminta. Tool akan langsung bekerja.
+
+📚 Roadmap
+✅ Scam comment detection
+
+✅ Location hint extraction
+
+✅ PDF & JSON export
+
+✅ Google Maps routing
+
+🚧 GUI mode (Streamlit/PyQt)
+
+🚧 Telegram/Email alert system
+
+🚧 Threat level scoring system
+
+💡 Example Use Cases
+
+User	Benefit
+🕵️ OSINT Investigator	Trace scam patterns & TikTok scam networks
+👨‍👩‍👧 Parents	Monitor suspicious influencers followed by children
+📰 Journalists	Research viral scam tactics via TikTok
+🛡️ Cybersecurity Teams	Flag dangerous financial TikTok trends
+🤝 Contribute
+PRs welcome! You can:
+
+🔍 Add smarter keyword detection (NLP-based)
+
+🎨 Improve PDF report formatting
+
+🌍 Expand location extraction logic
+
+💬 Translate to multi-language support
 
