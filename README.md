@@ -49,7 +49,8 @@
 
 1. Clone the repository:
 
-```bash
+```
+bash
 git clone https://github.com/yourusername/tiktok-investigator.git
 cd tiktok-investigator
 
@@ -59,17 +60,20 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
-Add your Google Maps API Key to the script:
 
-python
-Copy
-Edit
-GOOGLE_MAPS_API_KEY = "YOUR_API_KEY_HERE"
+```
+Install dependencies:
+pip install -r requirements.txt
+
+```
+Add your Google Maps API Key to the script:
+GOOGLE_MAPS_API_KEY = "101010101"
+
+```
 🚀 Usage
-bash
-Copy
-Edit
 python seeker.py
+
+
 Masukkan username TikTok (tanpa @) saat diminta. Tool akan langsung bekerja.
 
 📚 Roadmap
@@ -104,4 +108,3 @@ PRs welcome! You can:
 🌍 Expand location extraction logic
 
 💬 Translate to multi-language support
-
