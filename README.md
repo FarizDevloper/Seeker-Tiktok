@@ -106,3 +106,28 @@ PRs welcome! You can:
 🌍 Expand location extraction logic
 
 💬 Translate to multi-language support
+
+
+
+## 🌟 Support This Project 🌟
+
+If you find this project helpful and would like to support its ongoing development, you can make a donation! 💖 Your contribution will help us continue improving the project, add new features, and maintain its functionality for all users. Every little bit counts, and your support is deeply appreciated! 🙏
+
+### How to Contribute 💸
+
+You can donate through the following channels:
+
+- **PayPal**: [Donate via PayPal](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_LINK)
+- **Buy Me a Coffee**: [Support via BuyMeACoffee](https://www.buymeacoffee.com/YOUR_USERNAME)
+- **Ko-Fi**: [Donate on Ko-Fi](https://ko-fi.com/YOUR_USERNAME)
+
+Every donation, big or small, helps us continue to work on this project and bring it to the next level. 🚀 Thank you for your support! 💖
+
+---
+
+### Thank You to Our Amazing Donors 🌟
+
+We appreciate everyone who supports this project in any way. Your generosity makes all the difference. Thank you for being a part of our community! 💪
+
+If you want to contribute in other ways (like coding, bug fixes, or feature suggestions), feel free to check out our [Contributing Guide](CONTRIBUTING.md). 🚀
+
